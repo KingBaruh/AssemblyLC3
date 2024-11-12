@@ -1,5 +1,4 @@
-; 318739174, 50%
-; 211641956, 50%
+
 .ORIG X4190
 TriangleInequality:
 ; Input: R0, R1, R2 (three side lengths of a triangle)
