@@ -1,5 +1,4 @@
-; 318739174, 50%
-; 211641956, 50%
+
 .orig x41F4
 GetNum:
 ; Arguments: None.
