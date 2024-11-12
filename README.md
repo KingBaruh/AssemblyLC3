@@ -27,7 +27,7 @@ This repository contains various LC-3 Assembly language programs, demonstrating 
 Feel free to fork this repository and submit a pull request if you have improvements or new features to add.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 For any questions or feedback, feel free to open an issue on this repository.
