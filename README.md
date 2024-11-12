@@ -11,7 +11,7 @@ This repository contains various LC-3 Assembly language programs, demonstrating 
 - **GetNum**: Prompts the user for input and retrieves a number.
 - **Mul**: Implements a multiplication operation in LC-3 Assembly.
 - **TriangleInequality**: Verifies if three given lengths can form a triangle by satisfying the triangle inequality theorem.
-- **main**: Main program file that likely calls or combines the functionalities of the other programs.
+- **main**: Main program file that combines the functionalities of the other programs.
 
 ## Getting Started
 
