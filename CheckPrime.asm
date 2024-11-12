@@ -1,5 +1,4 @@
-; 318739174, 50%
-; 211641956, 50%
+
 .ORIG X412C
 CheckPrime:	
 ; Input: R0 (number to check for primality)
