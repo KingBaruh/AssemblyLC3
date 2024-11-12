@@ -1,5 +1,4 @@
-; 318739174, 50%
-; 211641956, 50%
+
 .ORIG x4384
 Calculator:     
 ; Arguments: R0, R1 are numbers (by numerical value)
